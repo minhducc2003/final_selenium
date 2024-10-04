@@ -43,7 +43,7 @@
 ![Screenshot from 2024-10-04 14-43-23](https://github.com/user-attachments/assets/d999bf59-fc8f-4b7e-9f25-c889fd863870)
 - Trong quá trình chạy sẽ gặp lỗi mình nghĩ là do trang web chặn spam
 ![Screenshot from 2024-10-04 14-42-26](https://github.com/user-attachments/assets/421ede12-3362-46b3-a967-c94dea2a8f5d)
-   - Cách xử lý, có thể run lại các testcases fall để thử lại
+   - Cách xử lý, có thể run lại các testcases fall để thử lại hoặc
    - Tăng `Thread.sleep` trong `/test/java/pages/DangNhapPage/`
      
 ![Screenshot from 2024-10-04 14-46-52](https://github.com/user-attachments/assets/443384ad-6b0c-49b7-89ce-cfce49f976e8)
