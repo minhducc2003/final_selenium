@@ -1,7 +1,7 @@
 # Chuẩn bị
 
 - **Intellij**
-- **Java** (java –version jdk-21_linux-x64_bin)
+- **Java** (java –version jdk-21)
 - **Chrome** version 114
 
 ---
