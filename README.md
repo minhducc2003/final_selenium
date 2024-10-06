@@ -17,8 +17,9 @@
 - **Java 21** (java 17 mình chưa thử)
   - Ubuntu: [Tải xuống](https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.tar.gz)
   - Windows: [Tải xuống](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe)
+  - Hướng dẫn cài đặt java 21: [Hướng dẫn](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-install-Java-21)
 
-> Sau khi cài đặt, kiểm tra phiên bản Java bằng lệnh `java -version`.
+> Nếu máy bạn đã có java hãy kiểm tra bằng lệnh `java -version`.
 
 - **Intellij** có nhiều phiên bản, hiện tại mình đang dùng bản 2023.2: [Tải xuống](https://www.jetbrains.com/idea/download/other.html)
 
@@ -27,14 +28,16 @@
 ## **CHẠY CODE**
 
 1. Mở source code bằng Intellij.
-2. Mở `pom.xml` và thực hiện Load Maven changes bằng `Ctrl + Shift + O` hoặc click vào icon nhỏ ở góc màn hình trên bên phải (warning các bạn bỏ qua nhé, còn đỏ mới là vấn đề :) ).
+2. Mở `pom.xml` và thực hiện Load Maven changes bằng `Ctrl + Shift + O` hoặc click vào icon nhỏ ở góc màn hình trên bên phải.(warning các bạn bỏ qua nhé, còn đỏ mới là vấn đề :) ).
+> Nếu không có thì bỏ qua
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/01142e97-0e9a-461d-bbb2-de1fec6e6ace" alt="image">
 </div>
 
 3. Tìm file `RunTestSuite.xml` trong source và tiến hành chạy bằng `Run` (hoặc `Ctrl + Shift + F10`).
-
+> Nếu không hiện Run, hãy thay đổi pom.xml như trong hướng dẫn video
+        
 ---
 
 ## **Config**
@@ -55,7 +58,7 @@
   <img src="https://github.com/user-attachments/assets/dc8da366-40db-4ab6-81d7-f8d02b0f27eb" alt="Screenshot 2">
 </div>
 
-- Chạy thành công sẽ pass 7/7 testcases.
+- Chạy thành công sẽ pass 7/7 testcases đăng nhập
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d999bf59-fc8f-4b7e-9f25-c889fd863870" alt="Screenshot 3">
 </div>
