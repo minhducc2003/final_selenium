@@ -11,7 +11,9 @@
 ## **CÀI ĐẶT**
 
 - **Link source code**: [GitHub Repository](https://github.com/minhducc2003/final_selenium/tree/master)
-- **Chrome** version 114.0.5735.110
+- **Chrome** version 114.0.5735.110.
+- **⚠️ Cảnh báo:** *Cần phải gỡ bản hiện tại đang sử dụng*
+  
   - Ubuntu: [Tải xuống](https://bestim.org/download.html?dlm-dp-dl=13218)
   - Windows: [Tải xuống](https://bestim.org/download.html?dlm-dp-dl=13216)
 - **Java 21** (java 17 mình chưa thử)
