@@ -10,7 +10,7 @@
 
 ## **CÀI ĐẶT**
 
-- **Link source code**: [GitHub Repository](https://github.com/minhducc2003/final_selenium/tree/master)
+- **Link source code**: [Download Repository](https://github.com/minhducc2003/final_selenium/archive/refs/heads/master.zip)
 - **Chrome** version 114.0.5735.110.
 - **⚠️ Cảnh báo:** *Cần phải gỡ bản hiện tại đang sử dụng*
   
